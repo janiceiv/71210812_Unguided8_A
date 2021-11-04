@@ -1,0 +1,15 @@
+1. Banyaknya bilangan dari 2001 sampai 4000 adalah 2000 bilangan
+Gunakan rumus jumlah suku pada deret aritmatika yaitu
+Sn: n/2*(a+Un)
+Sn : jumlah suku ke n
+n : banyak suku
+a : suku pertama
+Un: suku ke n
+
+Sehingga menjadi 
+S2000: n/2*(a+Un)
+S2000: 2000/2*(2001+4000)
+S2000: 1000*(6001)
+S2000: 6001000
+
+Sehingga hasil dari 2001+2002+2003+.........+3998+3999+4000 = 6001000
