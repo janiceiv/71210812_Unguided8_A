@@ -1,0 +1,2 @@
+2. Cangkir yang akan terisi lebih dahulu adalah cangkir 5
+Karena ada bagian pipa yang menuju cangkir 4,9,7 tertutup, maka kopi tidak bisa mengalir ke cangkir 4,9,7
